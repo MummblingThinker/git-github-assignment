@@ -3,4 +3,6 @@ Updated By Adam Larson 11/3/2026 10:00 AM EST
 Github is a place where people can store information usually code.
 Git is how people can grab that information and mess with it and then upload it back to Github updating the information.
 
+Branching is the act of basically making a copy of a repository. Then they can add/remove information/things from it. Then they can merge back into the main branch to save the information. Be careful though, doing it wrong could cause a lot of bugs. 
+
 Git is quite confusing to learn for new people. Especially  for me. But as you keep messing with it. You will pick up little things. Those little things will add up to a lot of knowledge. Then you will be able to do it quite easily. Well easier than your past self. 
