@@ -1,5 +1,5 @@
 Class project for Github
-Updated By Adam Larson 11/3/2026 10:00 AM EST
+Updated By Adam Larson 11/3/2026 10:05 AM EST
 Github is a place where people can store information usually code.
 Git is how people can grab that information and mess with it and then upload it back to Github updating the information.
 
